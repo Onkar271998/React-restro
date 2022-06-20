@@ -1,0 +1,44 @@
+{
+  "cafe": [
+    {
+      "id": 0,
+      "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D387089821907094&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fgraduatevadapav%2F&tbnid=UUf5vE-wu9BdmM&vet=12ahUKEwjlpc6nybv4AhUkT3wKHftUCa0QMygCegUIARDkAQ..i&docid=5yKg2qiJ3qUw1M&w=1280&h=853&q=vadapav&ved=2ahUKEwjlpc6nybv4AhUkT3wKHftUCa0QMygCegUIARDkAQ",
+      "name": "vadapav",
+      "food": "dcsdc",
+      "time": "49",
+      "for": "180",
+      "discount": "50",
+      "rating": "1.2"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Q0FjrwS6OD4jXDKecXbbjuGeC7OrIRomfHnetYmo3dljNzen2phzmfBndyoA5nGo5Fk&usqp=CAU",
+      "name": "panipuri",
+      "food": "dcsd",
+      "time": "45",
+      "for": "300",
+      "discount": "30",
+      "id": 2,
+      "rating": "3.2"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Q0FjrwS6OD4jXDKecXbbjuGeC7OrIRomfHnetYmo3dljNzen2phzmfBndyoA5nGo5Fk&usqp=CAU",
+      "name": "bhel",
+      "food": "sdcsd",
+      "time": "30",
+      "for": "500",
+      "discount": "25",
+      "rating": "4.6",
+      "id": 3
+    },
+    {
+      "image": "https://cdn.pixabay.com/photo/2015/03/04/22/35/head-659652__340.png",
+      "name": "dfvdfv",
+      "food": "fvfdvf",
+      "time": "dfvdfv",
+      "for": "575",
+      "discount": "525",
+      "rating": "53",
+      "id": 4
+    }
+  ]
+}
